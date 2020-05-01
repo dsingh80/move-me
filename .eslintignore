@@ -1,0 +1,6 @@
+*.min.map
+*.min.js
+*.bundle.js
+*polyfill.js
+polyfills.js
+test/*
